@@ -1,0 +1,1778 @@
+[
+  {
+    "file": "buddabaker.png",
+    "name": "Budda Baker",
+    "team": "ARI",
+    "position": "S",
+    "role": "DEF",
+    "espnId": "3127287"
+  },
+  {
+    "file": "devinduvernay.png",
+    "name": "Devin Duvernay",
+    "team": "ARI",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4039050"
+  },
+  {
+    "file": "ihmirsmithmarsette.png",
+    "name": "Ihmir Smith-Marsette",
+    "team": "ARI",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4240573"
+  },
+  {
+    "file": "jacobybrissett.png",
+    "name": "Jacoby Brissett",
+    "team": "ARI",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "2578570"
+  },
+  {
+    "file": "jeremiyahlove.png",
+    "name": "Jeremiyah Love",
+    "team": "ARI",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4870808"
+  },
+  {
+    "file": "marvinharrisonjr.png",
+    "name": "Marvin Harrison Jr.",
+    "team": "ARI",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4432708"
+  },
+  {
+    "file": "treymcbride.png",
+    "name": "Trey McBride",
+    "team": "ARI",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4361307"
+  },
+  {
+    "file": "bijanrobinson.png",
+    "name": "Bijan Robinson",
+    "team": "ATL",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4430807"
+  },
+  {
+    "file": "drakelondon.png",
+    "name": "Drake London",
+    "team": "ATL",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4426502"
+  },
+  {
+    "file": "jessiebatesiii.png",
+    "name": "Jessie Bates III",
+    "team": "ATL",
+    "position": "S",
+    "role": "DEF",
+    "espnId": "3919512"
+  },
+  {
+    "file": "kylepittssr.png",
+    "name": "Kyle Pitts Sr.",
+    "team": "ATL",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4360248"
+  },
+  {
+    "file": "tuatagovailoa.png",
+    "name": "Tua Tagovailoa",
+    "team": "ATL",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4241479"
+  },
+  {
+    "file": "vinnyanthonyii.png",
+    "name": "Vinny Anthony II",
+    "team": "ATL",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4869816"
+  },
+  {
+    "file": "zachariahbranch.png",
+    "name": "Zachariah Branch",
+    "team": "ATL",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4870612"
+  },
+  {
+    "file": "kylehamilton.png",
+    "name": "Kyle Hamilton",
+    "team": "BAL",
+    "position": "S",
+    "role": "DEF",
+    "espnId": "4575517"
+  },
+  {
+    "file": "lajohntaywester.png",
+    "name": "LaJohntay Wester",
+    "team": "BAL",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4690143"
+  },
+  {
+    "file": "lamarjackson.png",
+    "name": "Lamar Jackson",
+    "team": "BAL",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3916387"
+  },
+  {
+    "file": "markandrews.png",
+    "name": "Mark Andrews",
+    "team": "BAL",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3116365"
+  },
+  {
+    "file": "rasheenali.png",
+    "name": "Rasheen Ali",
+    "team": "BAL",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4690013"
+  },
+  {
+    "file": "rashodbateman.png",
+    "name": "Rashod Bateman",
+    "team": "BAL",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4360939"
+  },
+  {
+    "file": "zayflowers.png",
+    "name": "Zay Flowers",
+    "team": "BAL",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4429615"
+  },
+  {
+    "file": "daltonkincaid.png",
+    "name": "Dalton Kincaid",
+    "team": "BUF",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4385690"
+  },
+  {
+    "file": "djmoore.png",
+    "name": "DJ Moore",
+    "team": "BUF",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "3915416"
+  },
+  {
+    "file": "gregrousseau.png",
+    "name": "Greg Rousseau",
+    "team": "BUF",
+    "position": "LB",
+    "role": "DEF",
+    "espnId": "4362506"
+  },
+  {
+    "file": "jamescookiii.png",
+    "name": "James Cook III",
+    "team": "BUF",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4379399"
+  },
+  {
+    "file": "joshallen.png",
+    "name": "Josh Allen",
+    "team": "BUF",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3918298"
+  },
+  {
+    "file": "keoncoleman.png",
+    "name": "Keon Coleman",
+    "team": "BUF",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4635008"
+  },
+  {
+    "file": "khalilshakir.png",
+    "name": "Khalil Shakir",
+    "team": "BUF",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4373678"
+  },
+  {
+    "file": "bryceyoung.png",
+    "name": "Bryce Young",
+    "team": "CAR",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4685720"
+  },
+  {
+    "file": "davidmoore.png",
+    "name": "David Moore",
+    "team": "CAR",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4212909"
+  },
+  {
+    "file": "derrickbrown.png",
+    "name": "Derrick Brown",
+    "team": "CAR",
+    "position": "DT",
+    "role": "DEF",
+    "espnId": "4035495"
+  },
+  {
+    "file": "jalencoker.png",
+    "name": "Jalen Coker",
+    "team": "CAR",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4695883"
+  },
+  {
+    "file": "tetairoamcmillan.png",
+    "name": "Tetairoa McMillan",
+    "team": "CAR",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4685472"
+  },
+  {
+    "file": "tommytremble.png",
+    "name": "Tommy Tremble",
+    "team": "CAR",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4372780"
+  },
+  {
+    "file": "trevoretienne.png",
+    "name": "Trevor Etienne",
+    "team": "CAR",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4685350"
+  },
+  {
+    "file": "calebwilliams.png",
+    "name": "Caleb Williams",
+    "team": "CHI",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4431611"
+  },
+  {
+    "file": "colstonloveland.png",
+    "name": "Colston Loveland",
+    "team": "CHI",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4723086"
+  },
+  {
+    "file": "dandreswift.png",
+    "name": "D'Andre Swift",
+    "team": "CHI",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4259545"
+  },
+  {
+    "file": "jaylonjohnson.png",
+    "name": "Jaylon Johnson",
+    "team": "CHI",
+    "position": "CB",
+    "role": "DEF",
+    "espnId": "4243253"
+  },
+  {
+    "file": "kalifraymond.png",
+    "name": "Kalif Raymond",
+    "team": "CHI",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "2973405"
+  },
+  {
+    "file": "romeodunze.png",
+    "name": "Rome Odunze",
+    "team": "CHI",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4431299"
+  },
+  {
+    "file": "zavionthomas.png",
+    "name": "Zavion Thomas",
+    "team": "CHI",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4869748"
+  },
+  {
+    "file": "charliejones.png",
+    "name": "Charlie Jones",
+    "team": "CIN",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4257188"
+  },
+  {
+    "file": "chasebrown.png",
+    "name": "Chase Brown",
+    "team": "CIN",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4362238"
+  },
+  {
+    "file": "dexterlawrenceii.png",
+    "name": "Dexter Lawrence II",
+    "team": "CIN",
+    "position": "DT",
+    "role": "DEF",
+    "espnId": "4035483"
+  },
+  {
+    "file": "jamarrchase.png",
+    "name": "Ja'Marr Chase",
+    "team": "CIN",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4362628"
+  },
+  {
+    "file": "joeburrow.png",
+    "name": "Joe Burrow",
+    "team": "CIN",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3915511"
+  },
+  {
+    "file": "mikegesicki.png",
+    "name": "Mike Gesicki",
+    "team": "CIN",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3116164"
+  },
+  {
+    "file": "teehiggins.png",
+    "name": "Tee Higgins",
+    "team": "CIN",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4239993"
+  },
+  {
+    "file": "denzelward.png",
+    "name": "Denzel Ward",
+    "team": "CLE",
+    "position": "CB",
+    "role": "DEF",
+    "espnId": "3915535"
+  },
+  {
+    "file": "deshaunwatson.png",
+    "name": "Deshaun Watson",
+    "team": "CLE",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3122840"
+  },
+  {
+    "file": "gagelarvadain.png",
+    "name": "Gage Larvadain",
+    "team": "CLE",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4877203"
+  },
+  {
+    "file": "haroldfanninjr.png",
+    "name": "Harold Fannin Jr.",
+    "team": "CLE",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "5083076"
+  },
+  {
+    "file": "jerryjeudy.png",
+    "name": "Jerry Jeudy",
+    "team": "CLE",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4241463"
+  },
+  {
+    "file": "malachicorley.png",
+    "name": "Malachi Corley",
+    "team": "CLE",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4613104"
+  },
+  {
+    "file": "quinshonjudkins.png",
+    "name": "Quinshon Judkins",
+    "team": "CLE",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4685702"
+  },
+  {
+    "file": "ceedeelamb.png",
+    "name": "CeeDee Lamb",
+    "team": "DAL",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4241389"
+  },
+  {
+    "file": "dakprescott.png",
+    "name": "Dak Prescott",
+    "team": "DAL",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "2577417"
+  },
+  {
+    "file": "georgepickens.png",
+    "name": "George Pickens",
+    "team": "DAL",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4426354"
+  },
+  {
+    "file": "jakeferguson.png",
+    "name": "Jake Ferguson",
+    "team": "DAL",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4242355"
+  },
+  {
+    "file": "javontewilliams.png",
+    "name": "Javonte Williams",
+    "team": "DAL",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4361579"
+  },
+  {
+    "file": "kavontaeturpin.png",
+    "name": "KaVontae Turpin",
+    "team": "DAL",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "3676833"
+  },
+  {
+    "file": "quinnenwilliams.png",
+    "name": "Quinnen Williams",
+    "team": "DAL",
+    "position": "DT",
+    "role": "DEF",
+    "espnId": "4040982"
+  },
+  {
+    "file": "bonix.png",
+    "name": "Bo Nix",
+    "team": "DEN",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4426338"
+  },
+  {
+    "file": "courtlandsutton.png",
+    "name": "Courtland Sutton",
+    "team": "DEN",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "3128429"
+  },
+  {
+    "file": "evanengram.png",
+    "name": "Evan Engram",
+    "team": "DEN",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3051876"
+  },
+  {
+    "file": "jkdobbins.png",
+    "name": "J.K. Dobbins",
+    "team": "DEN",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4241985"
+  },
+  {
+    "file": "marvinmimsjr.png",
+    "name": "Marvin Mims Jr.",
+    "team": "DEN",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4686472"
+  },
+  {
+    "file": "michaelbandy.png",
+    "name": "Michael Bandy",
+    "team": "DEN",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4034704"
+  },
+  {
+    "file": "patsurtainii.png",
+    "name": "Pat Surtain II",
+    "team": "DEN",
+    "position": "CB",
+    "role": "DEF",
+    "espnId": "4372012"
+  },
+  {
+    "file": "aidanhutchinson.png",
+    "name": "Aidan Hutchinson",
+    "team": "DET",
+    "position": "DE",
+    "role": "DEF",
+    "espnId": "4372099"
+  },
+  {
+    "file": "amonrastbrown.png",
+    "name": "Amon-Ra St. Brown",
+    "team": "DET",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4374302"
+  },
+  {
+    "file": "gregdortch.png",
+    "name": "Greg Dortch",
+    "team": "DET",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4037235"
+  },
+  {
+    "file": "jahmyrgibbs.png",
+    "name": "Jahmyr Gibbs",
+    "team": "DET",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4429795"
+  },
+  {
+    "file": "jaredgoff.png",
+    "name": "Jared Goff",
+    "team": "DET",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3046779"
+  },
+  {
+    "file": "samlaporta.png",
+    "name": "Sam LaPorta",
+    "team": "DET",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4430027"
+  },
+  {
+    "file": "tomkennedy.png",
+    "name": "Tom Kennedy",
+    "team": "DET",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "3126997"
+  },
+  {
+    "file": "christianwatson.png",
+    "name": "Christian Watson",
+    "team": "GB",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4248528"
+  },
+  {
+    "file": "jordanlove.png",
+    "name": "Jordan Love",
+    "team": "GB",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4036378"
+  },
+  {
+    "file": "joshjacobs.png",
+    "name": "Josh Jacobs",
+    "team": "GB",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4047365"
+  },
+  {
+    "file": "matthewgolden.png",
+    "name": "Matthew Golden",
+    "team": "GB",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4701936"
+  },
+  {
+    "file": "micahparsons.png",
+    "name": "Micah Parsons",
+    "team": "GB",
+    "position": "DE",
+    "role": "DEF",
+    "espnId": "4361423"
+  },
+  {
+    "file": "skyymoore.png",
+    "name": "Skyy Moore",
+    "team": "GB",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4430191"
+  },
+  {
+    "file": "tuckerkraft.png",
+    "name": "Tucker Kraft",
+    "team": "GB",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4572680"
+  },
+  {
+    "file": "cjstroud.png",
+    "name": "C.J. Stroud",
+    "team": "HOU",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4432577"
+  },
+  {
+    "file": "daltonschultz.png",
+    "name": "Dalton Schultz",
+    "team": "HOU",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3117256"
+  },
+  {
+    "file": "davidmontgomery.png",
+    "name": "David Montgomery",
+    "team": "HOU",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4035538"
+  },
+  {
+    "file": "jaydenhiggins.png",
+    "name": "Jayden Higgins",
+    "team": "HOU",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4877706"
+  },
+  {
+    "file": "jaylinnoel.png",
+    "name": "Jaylin Noel",
+    "team": "HOU",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4586312"
+  },
+  {
+    "file": "nicocollins.png",
+    "name": "Nico Collins",
+    "team": "HOU",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4258173"
+  },
+  {
+    "file": "willandersonjr.png",
+    "name": "Will Anderson Jr.",
+    "team": "HOU",
+    "position": "DE",
+    "role": "DEF",
+    "espnId": "4685724"
+  },
+  {
+    "file": "alecpierce.png",
+    "name": "Alec Pierce",
+    "team": "IND",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4360078"
+  },
+  {
+    "file": "anthonygould.png",
+    "name": "Anthony Gould",
+    "team": "IND",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4429684"
+  },
+  {
+    "file": "danieljones.png",
+    "name": "Daniel Jones",
+    "team": "IND",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3917792"
+  },
+  {
+    "file": "jonathantaylor.png",
+    "name": "Jonathan Taylor",
+    "team": "IND",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4242335"
+  },
+  {
+    "file": "joshdowns.png",
+    "name": "Josh Downs",
+    "team": "IND",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4688813"
+  },
+  {
+    "file": "saucegardner.png",
+    "name": "Sauce Gardner",
+    "team": "IND",
+    "position": "CB",
+    "role": "DEF",
+    "espnId": "4427250"
+  },
+  {
+    "file": "tylerwarren.png",
+    "name": "Tyler Warren",
+    "team": "IND",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4431459"
+  },
+  {
+    "file": "bhayshultuten.png",
+    "name": "Bhayshul Tuten",
+    "team": "JAX",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4882093"
+  },
+  {
+    "file": "brentonstrange.png",
+    "name": "Brenton Strange",
+    "team": "JAX",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4430539"
+  },
+  {
+    "file": "brianthomasjr.png",
+    "name": "Brian Thomas Jr.",
+    "team": "JAX",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4432773"
+  },
+  {
+    "file": "joshhinesallen.png",
+    "name": "Josh Hines-Allen",
+    "team": "JAX",
+    "position": "DE",
+    "role": "DEF",
+    "espnId": "3915239"
+  },
+  {
+    "file": "parkerwashington.png",
+    "name": "Parker Washington",
+    "team": "JAX",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4432620"
+  },
+  {
+    "file": "travishunter.png",
+    "name": "Travis Hunter",
+    "team": "JAX",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4685415"
+  },
+  {
+    "file": "trevorlawrence.png",
+    "name": "Trevor Lawrence",
+    "team": "JAX",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4360310"
+  },
+  {
+    "file": "chrisjones.png",
+    "name": "Chris Jones",
+    "team": "KC",
+    "position": "DT",
+    "role": "DEF",
+    "espnId": "3044859"
+  },
+  {
+    "file": "kennethwalkeriii.png",
+    "name": "Kenneth Walker III",
+    "team": "KC",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4567048"
+  },
+  {
+    "file": "nikkoremigio.png",
+    "name": "Nikko Remigio",
+    "team": "KC",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4372716"
+  },
+  {
+    "file": "patrickmahomes.png",
+    "name": "Patrick Mahomes",
+    "team": "KC",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3139477"
+  },
+  {
+    "file": "rasheerice.png",
+    "name": "Rashee Rice",
+    "team": "KC",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4428331"
+  },
+  {
+    "file": "traviskelce.png",
+    "name": "Travis Kelce",
+    "team": "KC",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "15847"
+  },
+  {
+    "file": "xavierworthy.png",
+    "name": "Xavier Worthy",
+    "team": "KC",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4683062"
+  },
+  {
+    "file": "deriusdavis.png",
+    "name": "Derius Davis",
+    "team": "LAC",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4362477"
+  },
+  {
+    "file": "derwinjamesjr.png",
+    "name": "Derwin James Jr.",
+    "team": "LAC",
+    "position": "S",
+    "role": "DEF",
+    "espnId": "3691739"
+  },
+  {
+    "file": "justinherbert.png",
+    "name": "Justin Herbert",
+    "team": "LAC",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4038941"
+  },
+  {
+    "file": "laddmcconkey.png",
+    "name": "Ladd McConkey",
+    "team": "LAC",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4612826"
+  },
+  {
+    "file": "omarionhampton.png",
+    "name": "Omarion Hampton",
+    "team": "LAC",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4685382"
+  },
+  {
+    "file": "orondegadsden.png",
+    "name": "Oronde Gadsden",
+    "team": "LAC",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4595342"
+  },
+  {
+    "file": "quentinjohnston.png",
+    "name": "Quentin Johnston",
+    "team": "LAC",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4429025"
+  },
+  {
+    "file": "colbyparkinson.png",
+    "name": "Colby Parkinson",
+    "team": "LAR",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4242557"
+  },
+  {
+    "file": "jordanwhittington.png",
+    "name": "Jordan Whittington",
+    "team": "LAR",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4569382"
+  },
+  {
+    "file": "kyrenwilliams.png",
+    "name": "Kyren Williams",
+    "team": "LAR",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4430737"
+  },
+  {
+    "file": "matthewstafford.png",
+    "name": "Matthew Stafford",
+    "team": "LAR",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "12483"
+  },
+  {
+    "file": "mylesgarrett.png",
+    "name": "Myles Garrett",
+    "team": "LAR",
+    "position": "DE",
+    "role": "DEF",
+    "espnId": "3122132"
+  },
+  {
+    "file": "pukanacua.png",
+    "name": "Puka Nacua",
+    "team": "LAR",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4426515"
+  },
+  {
+    "file": "xaviersmith.png",
+    "name": "Xavier Smith",
+    "team": "LAR",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4386544"
+  },
+  {
+    "file": "ashtonjeanty.png",
+    "name": "Ashton Jeanty",
+    "team": "LV",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4890973"
+  },
+  {
+    "file": "brockbowers.png",
+    "name": "Brock Bowers",
+    "team": "LV",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4432665"
+  },
+  {
+    "file": "darekeyoung.png",
+    "name": "Dareke Young",
+    "team": "LV",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4401805"
+  },
+  {
+    "file": "jalennailor.png",
+    "name": "Jalen Nailor",
+    "team": "LV",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4382466"
+  },
+  {
+    "file": "kirkcousins.png",
+    "name": "Kirk Cousins",
+    "team": "LV",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "14880"
+  },
+  {
+    "file": "maxxcrosby.png",
+    "name": "Maxx Crosby",
+    "team": "LV",
+    "position": "DE",
+    "role": "DEF",
+    "espnId": "3916655"
+  },
+  {
+    "file": "tretucker.png",
+    "name": "Tre Tucker",
+    "team": "LV",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4428718"
+  },
+  {
+    "file": "choprobinson.png",
+    "name": "Chop Robinson",
+    "team": "MIA",
+    "position": "LB",
+    "role": "DEF",
+    "espnId": "4431586"
+  },
+  {
+    "file": "devonachane.png",
+    "name": "De'Von Achane",
+    "team": "MIA",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4429160"
+  },
+  {
+    "file": "gregdulcich.png",
+    "name": "Greg Dulcich",
+    "team": "MIA",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4367209"
+  },
+  {
+    "file": "jalentolbert.png",
+    "name": "Jalen Tolbert",
+    "team": "MIA",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4249417"
+  },
+  {
+    "file": "kevincolemanjr.png",
+    "name": "Kevin Coleman Jr.",
+    "team": "MIA",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4685307"
+  },
+  {
+    "file": "malikwashington.png",
+    "name": "Malik Washington",
+    "team": "MIA",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4569603"
+  },
+  {
+    "file": "malikwillis.png",
+    "name": "Malik Willis",
+    "team": "MIA",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4242512"
+  },
+  {
+    "file": "aaronjonessr.png",
+    "name": "Aaron Jones Sr.",
+    "team": "MIN",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "3042519"
+  },
+  {
+    "file": "jordanaddison.png",
+    "name": "Jordan Addison",
+    "team": "MIN",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4429205"
+  },
+  {
+    "file": "justinjefferson.png",
+    "name": "Justin Jefferson",
+    "team": "MIN",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4262921"
+  },
+  {
+    "file": "kylermurray.png",
+    "name": "Kyler Murray",
+    "team": "MIN",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3917315"
+  },
+  {
+    "file": "mylesprice.png",
+    "name": "Myles Price",
+    "team": "MIN",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4430656"
+  },
+  {
+    "file": "tjhockenson.png",
+    "name": "T.J. Hockenson",
+    "team": "MIN",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4036133"
+  },
+  {
+    "file": "ajbrown.png",
+    "name": "A.J. Brown",
+    "team": "NE",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4047646"
+  },
+  {
+    "file": "christiangonzalez.png",
+    "name": "Christian Gonzalez",
+    "team": "NE",
+    "position": "CB",
+    "role": "DEF",
+    "espnId": "4686772"
+  },
+  {
+    "file": "drakemaye.png",
+    "name": "Drake Maye",
+    "team": "NE",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4431452"
+  },
+  {
+    "file": "eftonchismiii.png",
+    "name": "Efton Chism III",
+    "team": "NE",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4695193"
+  },
+  {
+    "file": "hunterhenry.png",
+    "name": "Hunter Henry",
+    "team": "NE",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3046439"
+  },
+  {
+    "file": "kylewilliams.png",
+    "name": "Kyle Williams",
+    "team": "NE",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4613202"
+  },
+  {
+    "file": "rhamondrestevenson.png",
+    "name": "Rhamondre Stevenson",
+    "team": "NE",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4569173"
+  },
+  {
+    "file": "barionbrown.png",
+    "name": "Barion Brown",
+    "team": "NO",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4698597"
+  },
+  {
+    "file": "chrisolave.png",
+    "name": "Chris Olave",
+    "team": "NO",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4361370"
+  },
+  {
+    "file": "justinreid.png",
+    "name": "Justin Reid",
+    "team": "NO",
+    "position": "S",
+    "role": "DEF",
+    "espnId": "3931399"
+  },
+  {
+    "file": "juwanjohnson.png",
+    "name": "Juwan Johnson",
+    "team": "NO",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3929645"
+  },
+  {
+    "file": "masontipton.png",
+    "name": "Mason Tipton",
+    "team": "NO",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4573697"
+  },
+  {
+    "file": "travisetiennejr.png",
+    "name": "Travis Etienne Jr.",
+    "team": "NO",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4239996"
+  },
+  {
+    "file": "tylershough.png",
+    "name": "Tyler Shough",
+    "team": "NO",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4360689"
+  },
+  {
+    "file": "brianburns.png",
+    "name": "Brian Burns",
+    "team": "NYG",
+    "position": "LB",
+    "role": "DEF",
+    "espnId": "4035631"
+  },
+  {
+    "file": "camskattebo.png",
+    "name": "Cam Skattebo",
+    "team": "NYG",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4696981"
+  },
+  {
+    "file": "dariusslayton.png",
+    "name": "Darius Slayton",
+    "team": "NYG",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "3916945"
+  },
+  {
+    "file": "isaiahlikely.png",
+    "name": "Isaiah Likely",
+    "team": "NYG",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4361050"
+  },
+  {
+    "file": "jaxsondart.png",
+    "name": "Jaxson Dart",
+    "team": "NYG",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4689114"
+  },
+  {
+    "file": "maliknabers.png",
+    "name": "Malik Nabers",
+    "team": "NYG",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4595348"
+  },
+  {
+    "file": "xaviergipson.png",
+    "name": "Xavier Gipson",
+    "team": "NYG",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4427278"
+  },
+  {
+    "file": "adonaimitchell.png",
+    "name": "Adonai Mitchell",
+    "team": "NYJ",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4597500"
+  },
+  {
+    "file": "breecehall.png",
+    "name": "Breece Hall",
+    "team": "NYJ",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4427366"
+  },
+  {
+    "file": "garrettwilson.png",
+    "name": "Garrett Wilson",
+    "team": "NYJ",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4569618"
+  },
+  {
+    "file": "genosmith.png",
+    "name": "Geno Smith",
+    "team": "NYJ",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "15864"
+  },
+  {
+    "file": "isaiahwilliams.png",
+    "name": "Isaiah Williams",
+    "team": "NYJ",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4569371"
+  },
+  {
+    "file": "kenyonsadiq.png",
+    "name": "Kenyon Sadiq",
+    "team": "NYJ",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "5083315"
+  },
+  {
+    "file": "minkahfitzpatrick.png",
+    "name": "Minkah Fitzpatrick",
+    "team": "NYJ",
+    "position": "S",
+    "role": "DEF",
+    "espnId": "3925345"
+  },
+  {
+    "file": "britaincovey.png",
+    "name": "Britain Covey",
+    "team": "PHI",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "3926231"
+  },
+  {
+    "file": "dallasgoedert.png",
+    "name": "Dallas Goedert",
+    "team": "PHI",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3121023"
+  },
+  {
+    "file": "devontasmith.png",
+    "name": "DeVonta Smith",
+    "team": "PHI",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4241478"
+  },
+  {
+    "file": "jalencarter.png",
+    "name": "Jalen Carter",
+    "team": "PHI",
+    "position": "DT",
+    "role": "DEF",
+    "espnId": "4685759"
+  },
+  {
+    "file": "jalenhurts.png",
+    "name": "Jalen Hurts",
+    "team": "PHI",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4040715"
+  },
+  {
+    "file": "makailemon.png",
+    "name": "Makai Lemon",
+    "team": "PHI",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4870795"
+  },
+  {
+    "file": "saquonbarkley.png",
+    "name": "Saquon Barkley",
+    "team": "PHI",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "3929630"
+  },
+  {
+    "file": "aaronrodgers.png",
+    "name": "Aaron Rodgers",
+    "team": "PIT",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "8439"
+  },
+  {
+    "file": "dkmetcalf.png",
+    "name": "DK Metcalf",
+    "team": "PIT",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4047650"
+  },
+  {
+    "file": "jaylenwarren.png",
+    "name": "Jaylen Warren",
+    "team": "PIT",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4569987"
+  },
+  {
+    "file": "kadenwetjen.png",
+    "name": "Kaden Wetjen",
+    "team": "PIT",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "5081338"
+  },
+  {
+    "file": "michaelpittmanjr.png",
+    "name": "Michael Pittman Jr.",
+    "team": "PIT",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4035687"
+  },
+  {
+    "file": "patfreiermuth.png",
+    "name": "Pat Freiermuth",
+    "team": "PIT",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4361411"
+  },
+  {
+    "file": "tjwatt.png",
+    "name": "T.J. Watt",
+    "team": "PIT",
+    "position": "LB",
+    "role": "DEF",
+    "espnId": "3045282"
+  },
+  {
+    "file": "ajbarner.png",
+    "name": "AJ Barner",
+    "team": "SEA",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4576297"
+  },
+  {
+    "file": "demarcuslawrence.png",
+    "name": "DeMarcus Lawrence",
+    "team": "SEA",
+    "position": "LB",
+    "role": "DEF",
+    "espnId": "16802"
+  },
+  {
+    "file": "jaxonsmithnjigba.png",
+    "name": "Jaxon Smith-Njigba",
+    "team": "SEA",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4430878"
+  },
+  {
+    "file": "rashidshaheed.png",
+    "name": "Rashid Shaheed",
+    "team": "SEA",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4032473"
+  },
+  {
+    "file": "samdarnold.png",
+    "name": "Sam Darnold",
+    "team": "SEA",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3912547"
+  },
+  {
+    "file": "toryhorton.png",
+    "name": "Tory Horton",
+    "team": "SEA",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4597703"
+  },
+  {
+    "file": "zachcharbonnet.png",
+    "name": "Zach Charbonnet",
+    "team": "SEA",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4426385"
+  },
+  {
+    "file": "brockpurdy.png",
+    "name": "Brock Purdy",
+    "team": "SF",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4361741"
+  },
+  {
+    "file": "christiankirk.png",
+    "name": "Christian Kirk",
+    "team": "SF",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "3895856"
+  },
+  {
+    "file": "fredwarner.png",
+    "name": "Fred Warner",
+    "team": "SF",
+    "position": "LB",
+    "role": "DEF",
+    "espnId": "3138826"
+  },
+  {
+    "file": "georgekittle.png",
+    "name": "George Kittle",
+    "team": "SF",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "3040151"
+  },
+  {
+    "file": "isaacguerendo.png",
+    "name": "Isaac Guerendo",
+    "team": "SF",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4372561"
+  },
+  {
+    "file": "jacobcowing.png",
+    "name": "Jacob Cowing",
+    "team": "SF",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4575665"
+  },
+  {
+    "file": "mikeevans.png",
+    "name": "Mike Evans",
+    "team": "SF",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "16737"
+  },
+  {
+    "file": "antoinewinfieldjr.png",
+    "name": "Antoine Winfield Jr.",
+    "team": "TB",
+    "position": "S",
+    "role": "DEF",
+    "espnId": "4034790"
+  },
+  {
+    "file": "bakermayfield.png",
+    "name": "Baker Mayfield",
+    "team": "TB",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "3052587"
+  },
+  {
+    "file": "cadeotton.png",
+    "name": "Cade Otton",
+    "team": "TB",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4243331"
+  },
+  {
+    "file": "chrisgodwinjr.png",
+    "name": "Chris Godwin Jr.",
+    "team": "TB",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "3116165"
+  },
+  {
+    "file": "emekaegbuka.png",
+    "name": "Emeka Egbuka",
+    "team": "TB",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4567750"
+  },
+  {
+    "file": "kameronjohnson.png",
+    "name": "Kameron Johnson",
+    "team": "TB",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "5097554"
+  },
+  {
+    "file": "kennygainwell.png",
+    "name": "Kenny Gainwell",
+    "team": "TB",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4371733"
+  },
+  {
+    "file": "camward.png",
+    "name": "Cam Ward",
+    "team": "TEN",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4688380"
+  },
+  {
+    "file": "carnelltate.png",
+    "name": "Carnell Tate",
+    "team": "TEN",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4871023"
+  },
+  {
+    "file": "chimeredike.png",
+    "name": "Chimere Dike",
+    "team": "TEN",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4431268"
+  },
+  {
+    "file": "gunnarhelm.png",
+    "name": "Gunnar Helm",
+    "team": "TEN",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4686728"
+  },
+  {
+    "file": "jefferysimmons.png",
+    "name": "Jeffery Simmons",
+    "team": "TEN",
+    "position": "DT",
+    "role": "DEF",
+    "espnId": "4035369"
+  },
+  {
+    "file": "masonkinsey.png",
+    "name": "Mason Kinsey",
+    "team": "TEN",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "4057082"
+  },
+  {
+    "file": "tonypollard.png",
+    "name": "Tony Pollard",
+    "team": "TEN",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "3916148"
+  },
+  {
+    "file": "chigokonkwo.png",
+    "name": "Chig Okonkwo",
+    "team": "WSH",
+    "position": "TE",
+    "role": "TE",
+    "espnId": "4360635"
+  },
+  {
+    "file": "jacorycroskeymerritt.png",
+    "name": "Jacory Croskey-Merritt",
+    "team": "WSH",
+    "position": "RB",
+    "role": "RB",
+    "espnId": "4575131"
+  },
+  {
+    "file": "jaydendaniels.png",
+    "name": "Jayden Daniels",
+    "team": "WSH",
+    "position": "QB",
+    "role": "QB",
+    "espnId": "4426348"
+  },
+  {
+    "file": "jaylinlane.png",
+    "name": "Jaylin Lane",
+    "team": "WSH",
+    "position": "WR",
+    "role": "WR1",
+    "espnId": "4602667"
+  },
+  {
+    "file": "lukemccaffrey.png",
+    "name": "Luke McCaffrey",
+    "team": "WSH",
+    "position": "WR",
+    "role": "WR2",
+    "espnId": "4426948"
+  },
+  {
+    "file": "terrymclaurin.png",
+    "name": "Terry McLaurin",
+    "team": "WSH",
+    "position": "WR",
+    "role": "WR3",
+    "espnId": "3121422"
+  }
+]
